@@ -1,8 +1,10 @@
 # 6 AI Prompts for Better Answers (ChatGPT, Claude, Gemini)
 
-A free one-page-style cheat sheet from **Learn With Me Arun**: 6 copy-paste prompts that get you clearer, more personal answers from any AI chat, plus one that makes the AI find the blind spots in your plan instead of just saying "super idea".
+A free cheat sheet from **Learn With Me Arun**: 6 copy-paste prompts that get you clearer, more personal answers from any AI chat, plus one that makes the AI find the blind spots in your plan instead of just saying "super idea".
 
-> Simple-a sonna: indha 6 prompts copy panni paste pannunga, AI generic answer kudukradhu kuraiyum.
+> In short: copy these 6 prompts into any AI chat and you will get far fewer generic answers.
+
+Comment **AI6** on the Reel to get this guide.
 
 ## 📄 Download the PDF
 **[6-ai-prompts-cheatsheet.pdf](6-ai-prompts-cheatsheet.pdf)** ([direct download](https://github.com/arunprakash579-cell/6-ai-prompts-cheatsheet/raw/main/6-ai-prompts-cheatsheet.pdf))
